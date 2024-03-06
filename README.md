@@ -14,9 +14,9 @@ O projeto "Jogo do Número Secreto" é um jogo simples em que o jogador tenta ad
 
 ## Tecnologias Utilizadas
 
-- JavaScript
-- HTML
-- CSS
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Como Executar
 
@@ -25,7 +25,7 @@ O projeto "Jogo do Número Secreto" é um jogo simples em que o jogador tenta ad
 3. Abra o Visual Studio Code e navegue até o diretório do projeto.
 4. Abra o arquivo HTML principal do projeto em seu navegador da web.
 5. Siga as instruções no jogo para jogar e tentar adivinhar o número secreto.
-6. Alternativamente, você pode jogar o jogo sem precisar baixar os arquivos. Basta acessar [o link do jogo hospedado no Vercel](https://alura-js.vercel.app/).
+6. **Alternativamente, você pode jogar o jogo sem precisar baixar os arquivos. Basta acessar [o link do jogo hospedado no Vercel](https://alura-js.vercel.app/).**
 
 ## Contribuição
 
@@ -34,4 +34,10 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver suge
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
+## Colaboradores
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/155408354?v=4" width=115><br><sub>Efraim Paiva</sub>](https://github.com/efraim-paiva) |
+| :---: |
+
 
